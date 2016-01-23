@@ -7,7 +7,7 @@
 """
 
 def welcome():
-    print('Welcome to the Pig Latin translator 1.1.')
+    print('Welcome to the Pig Latin translator 1.2.')
     print("You can translate single words into Pig Latin.")
 
 def translation():
