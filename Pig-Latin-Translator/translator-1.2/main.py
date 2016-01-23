@@ -1,4 +1,4 @@
-from Translator import translation
+from Translator import translation, welcome
 
 welcome()
 translation()
