@@ -1,1 +1,5 @@
-// starts as a simple single word pig latin translators and grows to include multiple improvements.
+This prjecet starts as a simple single word pig latin translators and grows to include multiple improvements.
+
+1.2 adds the option for the user to repeat the program again before exiting
+
+2.0 allows for phrases, full sentences, and punctuation.
